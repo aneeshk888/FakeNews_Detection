@@ -107,14 +107,6 @@ python fake_news.py
 
 ---
 
-## 📬 Contact
 
-Feel free to reach out for suggestions or improvements.
-
-**Author**: [Your Name]  
-**Email**: your.email@example.com  
-**GitHub**: [@yourusername](https://github.com/yourusername)
-
----
 
 ⭐ If you found this project helpful, feel free to give it a star!
